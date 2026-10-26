@@ -1,5 +1,5 @@
 import type { Metadata, Viewport } from "next";
-import "/globals.css";
+import "./css/globals.css";
 
 export const metadata: Metadata = {
   title: "محمد نبی‌زاده | صدای تو، آینده‌ی ما",
